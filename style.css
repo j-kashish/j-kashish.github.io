@@ -186,9 +186,17 @@ font-size: 2.6rem;
     padding:1rem 80px;
     font-size:1.2rem;
 }
+
 .tech{
     padding-top: 20px;
 }
+
+.tech-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .heading{
     text-align:center;
     color:#fff;
