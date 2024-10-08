@@ -155,15 +155,16 @@ transition:.5s ease;
     align-items:center;
     gap:2rem;
     background: var(--snd-bg-color);
+    height: 100vh;
 }
-.about-img img{
-    width:35vw;
+.about img{
+    height: 80vh;
 }
-.heading{
-    text-align: center;
+.about-heading{
+    text-align: left;
     font-size:4.5rem;
-
 }
+
 .about-content h2{
     text-align:left;
     line-height: 1.2;
